@@ -577,129 +577,125 @@ G:_WM_MENU
 *:_WM_J_WM01
 Q: Do you want to continue to lesson 2? [Y/N]
 N:_WM_MENU
-G:WM01
+G:WM02
 *:_WM_J_WM02
 Q: Do you want to continue to lesson 3? [Y/N]
 N:_WM_MENU
-G:WM02
+G:WM03
 *:_WM_J_WM03
 Q: Do you want to continue to lesson 4? [Y/N]
 N:_WM_MENU
-G:WM03
+G:WM04
 *:_WM_J_WM04
 Q: Do you want to continue to lesson 5? [Y/N]
 N:_WM_MENU
-G:WM04
+G:WM05
 *:_WM_J_WM05
 Q: Do you want to continue to lesson 6? [Y/N]
 N:_WM_MENU
-G:WM05
+G:WM06
 *:_WM_J_WM06
 Q: Do you want to continue to lesson 7? [Y/N]
 N:_WM_MENU
-G:WM06
+G:WM07
 *:_WM_J_WM07
 Q: Do you want to continue to lesson 8? [Y/N]
 N:_WM_MENU
-G:WM07
+G:WM08
 *:_WM_J_WM08
 Q: Do you want to continue to lesson 9? [Y/N]
 N:_WM_MENU
-G:WM08
+G:WM09
 *:_WM_J_WM09
 Q: Do you want to continue to lesson 10? [Y/N]
 N:_WM_MENU
-G:WM09
+G:WM10
 *:_WM_J_WM10
 Q: Do you want to continue to lesson 11? [Y/N]
 N:_WM_MENU
-G:WM10
+G:WM11
 *:_WM_J_WM11
 Q: Do you want to continue to lesson 12? [Y/N]
 N:_WM_MENU
-G:WM11
+G:WM12
 *:_WM_J_WM12
 Q: Do you want to continue to lesson 13? [Y/N]
 N:_WM_MENU
-G:WM12
+G:WM13
 *:_WM_J_WM13
 Q: Do you want to continue to lesson 14? [Y/N]
 N:_WM_MENU
-G:WM13
+G:WM14
 *:_WM_J_WM14
 Q: Do you want to continue to lesson 15? [Y/N]
 N:_WM_MENU
-G:WM14
+G:WM15
 *:_WM_J_WM15
 Q: Do you want to continue to lesson 16? [Y/N]
 N:_WM_MENU
-G:WM15
+G:WM16
 *:_WM_J_WM16
 Q: Do you want to continue to lesson 17? [Y/N]
 N:_WM_MENU
-G:WM16
+G:WM17
 *:_WM_J_WM17
 Q: Do you want to continue to lesson 18? [Y/N]
 N:_WM_MENU
-G:WM17
+G:WM18
 *:_WM_J_WM18
 Q: Do you want to continue to lesson 19? [Y/N]
 N:_WM_MENU
-G:WM18
+G:WM19
 *:_WM_J_WM19
 Q: Do you want to continue to lesson 20? [Y/N]
 N:_WM_MENU
-G:WM19
+G:WM20
 *:_WM_J_WM20
 Q: Do you want to continue to lesson 21? [Y/N]
 N:_WM_MENU
-G:WM20
+G:WM21
 *:_WM_J_WM21
 Q: Do you want to continue to lesson 22? [Y/N]
 N:_WM_MENU
-G:WM21
+G:WM22
 *:_WM_J_WM22
 Q: Do you want to continue to lesson 23? [Y/N]
 N:_WM_MENU
-G:WM22
+G:WM23
 *:_WM_J_WM23
 Q: Do you want to continue to lesson 24? [Y/N]
 N:_WM_MENU
-G:WM23
+G:WM24
 *:_WM_J_WM24
 Q: Do you want to continue to lesson 25? [Y/N]
 N:_WM_MENU
-G:WM24
+G:WM25
 *:_WM_J_WM25
 Q: Do you want to continue to lesson 26? [Y/N]
 N:_WM_MENU
-G:WM25
+G:WM26
 *:_WM_J_WM26
 Q: Do you want to continue to lesson 27? [Y/N]
 N:_WM_MENU
-G:WM26
+G:WM27
 *:_WM_J_WM27
 Q: Do you want to continue to lesson 28? [Y/N]
 N:_WM_MENU
-G:WM27
+G:WM28
 *:_WM_J_WM28
 Q: Do you want to continue to lesson 29? [Y/N]
 N:_WM_MENU
-G:WM28
+G:WM29
 *:_WM_J_WM29
 Q: Do you want to continue to lesson 30? [Y/N]
 N:_WM_MENU
-G:WM29
+G:WM30
 *:_WM_J_WM30
 Q: Do you want to continue to lesson 31? [Y/N]
 N:_WM_MENU
-G:WM30
+G:WM31
 *:_WM_J_WM31
 Q: Do you want to continue to lesson 32? [Y/N]
-N:_WM_MENU
-G:WM31
-*:_WM_J_WM32
-Q: Do you want to continue to lesson 33? [Y/N]
 N:_WM_MENU
 G:WM32
 
